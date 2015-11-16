@@ -15,7 +15,6 @@ class Box4 {
 public class Box4Test1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("1505083-Kyungmin Kim");
 		Box4 mybox1 = new Box4(10, 20, 30);
 		int vol = mybox1.width * mybox1.height * mybox1.depth;
