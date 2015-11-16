@@ -12,7 +12,6 @@ class Box3{
 public class Box3Test1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("1505083-Kyungmin Kim");
 		Box3 mybox1 = new Box3();
 		Box3 mybox2 = new Box3();
